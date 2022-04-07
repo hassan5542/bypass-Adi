@@ -1,0 +1,2 @@
+import Adi
+Adi.Adi()
